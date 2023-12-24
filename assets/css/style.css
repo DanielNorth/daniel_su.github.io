@@ -1871,6 +1871,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .social-list { justify-content: center; }
 
+  .timeline-item ul li {
+    list-style-type: disc;
+    margin-left: 20px; /* Adjust as needed for alignment */
+}
+
 
 
   /**
