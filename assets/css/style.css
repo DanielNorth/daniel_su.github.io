@@ -1874,6 +1874,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-item ul li {
     list-style-type: disc;
     margin-left: 20px; /* Adjust as needed for alignment */
+    color: #BFBFBF;
 }
 
 
